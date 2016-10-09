@@ -1,3 +1,3 @@
 # OS
 
-This program is to test the makefile.
+Working on the OS concepts.
